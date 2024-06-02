@@ -5,6 +5,7 @@ This repository contains Solidity code examples that demonstrate common security
 ## Table of Contents
 
 - [Reentrancy](./Reentrancy)
+- [Integer Overflow and Underflow](./IntegerOverflow)
 
 
 ## How to Use
@@ -17,5 +18,4 @@ Each directory contains:
 ## License
 
 This project is licensed under the MIT License.
-
 
